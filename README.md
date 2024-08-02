@@ -1,5 +1,5 @@
 G-Bhagya Lakshmi
-company:codtech
+company:codtechitsolution
 code:
-output:
-Uploading IMG-20240801-WA0004
+output:![Uploading IMG-20240801-WA0004.jpg…]()
+
